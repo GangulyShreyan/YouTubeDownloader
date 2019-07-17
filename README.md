@@ -15,7 +15,10 @@ This is code is designed for running on MOZILLA FIREFOX browser ONLY.
 
 You need the following packages installed for this code:
 1.Selenium
+
 2.BeautifulSoup
-3time
+
+3.time
+
 4.requests
 
