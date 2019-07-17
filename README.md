@@ -14,6 +14,7 @@ You need the current version of geckodriver and Mozilla Firefox for running this
 This is code is designed for running on MOZILLA FIREFOX browser ONLY.
 
 You need the following packages installed for this code:
+
 1.Selenium
 
 2.BeautifulSoup
