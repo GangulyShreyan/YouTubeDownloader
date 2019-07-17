@@ -35,5 +35,5 @@ if(choice==2):
 
 driver=webdriver.Firefox()
 driver.get(dlink)
-time.sleep(4)
+time.sleep(5)
 driver.find_element_by_class_name('def-btn-box').click()
