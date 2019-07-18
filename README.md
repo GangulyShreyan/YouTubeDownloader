@@ -11,7 +11,7 @@ I've given an input sample as follows:
 
 You need the current version of geckodriver and Mozilla Firefox for running this code.
 
-This is code is designed for running on MOZILLA FIREFOX browser ONLY.
+This code is designed for running on MOZILLA FIREFOX browser ONLY.
 
 You need the following packages installed for this code:
 
